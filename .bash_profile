@@ -1,4 +1,4 @@
-# To the extent possible under law, the author(s) have dedicated all 
+
 # copyright and related and neighboring rights to this software to the 
 # public domain worldwide. This software is distributed without any warranty. 
 # You should have received a copy of the CC0 Public Domain Dedication along 
@@ -44,7 +44,6 @@ fi
 # if [ -d "${HOME}/info" ]; then
 #   INFOPATH="${HOME}/info:${INFOPATH}"
 # fi
-
 
 # (GJ) Custom Config 
 
@@ -94,3 +93,4 @@ alias obsidian='cd "/d/Documents/SelfProjects/obsidian-vault"'
 DOTFILES_HOME=/cygwin64$HOME
 DOTFILES_GIT_DIR=.cygwin_dotfiles
 alias dotfiles="git --git-dir=$DOTFILES_HOME/$DOTFILES_GIT_DIR/ --work-tree=$DOTFILES_HOME"
+
