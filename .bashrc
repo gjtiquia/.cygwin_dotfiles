@@ -228,7 +228,7 @@ export MSYS=enable_pcon
 eval "$(fzf --bash)"
 
 # alias stuff
-alias so="source ~/.bash_profile"
+alias so="source ~/.bashrc"
 alias 9cat='cd "/d/Documents/UnityProjects/9cat-2d-2"'
 alias obsidian='cd "/d/Documents/SelfProjects/obsidian-vault"'
 
